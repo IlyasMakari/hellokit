@@ -6,6 +6,6 @@ class Greeter
 {
     public function greet(string $name = 'world'): string
     {
-        return "Hello, {$name}!";
+        return "Goodbye, {$name}.";
     }
 }
